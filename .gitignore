@@ -1,0 +1,41 @@
+# Visual Studio and MSBuild
+.vs/
+*.suo
+*.user
+*.userossc
+*.sln.docstates
+[Bb]uild/
+[Dd]ebug/
+[Rr]elease/
+x64/
+Win32/
+
+# C/C++ and CUDA build outputs
+*.exe
+*.dll
+*.obj
+*.o
+*.a
+*.lib
+*.exp
+*.pdb
+*.ilk
+*.idb
+*.tlog/
+*.ninja
+CMakeFiles/
+cmake-build-*/
+
+# Temporary and generated files
+*.tmp
+*.temp
+*.log
+*.bak
+*.swp
+*.cache
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
